@@ -1,8 +1,8 @@
-# Hux Blog
+# Emc3 Blog
 
-### [View Live Hux Blog &rarr;](https://huangxuan.me)
+### [View Live Emc3 Blog &rarr;](https://emc3.top)
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![](https://emc3.top/img/blog-desktop.jpg)
 
 
 
