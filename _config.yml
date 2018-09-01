@@ -1,11 +1,11 @@
 # Site settings
-title: Jiajing's Blog
-SEOTitle: 巫家竞的博客 | Jiajing
+title: Dzt's Blog
+SEOTitle: 董哲彤的博客 | Dzt
 header-img: img/home-bg.jpg
-email: wjj315315@gmail.com
-description: "Because it is there."
-keyword: "巫家竞"
-url: "https://emc3.top"              # your host, for absolute URL
+email: 569578851@qq.com
+description: "狗哥的博客,"
+keyword: "董哲彤"
+url: "https://www.dogebug.cn"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
