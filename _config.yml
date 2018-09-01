@@ -1,6 +1,6 @@
 # Site settings
-title: Dzt's Blog
-SEOTitle: 董哲彤的博客 | Dzt
+title: yanshigou | Dzt's Blog
+SEOTitle: 狗哥的博客 | Dzt
 header-img: img/home-bg.jpg
 email: 569578851@qq.com
 description: "狗哥的博客,"
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-#weibo_username:     huxpro
-#zhihu_username:     huxpro
-#github_username:    yuppieghost
-#twitter_username:   huxpro
-#facebook_username:  huxpro
+#weibo_username:     厌世狗
+#zhihu_username:     狗哥
+#github_username:    yanshigou
+#twitter_username:   None
+#facebook_username:  None
 #linkedin_username:  firstname-lastname-idxxxx
 
 
