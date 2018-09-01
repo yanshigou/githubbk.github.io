@@ -1,4 +1,4 @@
-# Emc3 Blog
+# doge Blog
 
 ### [View Live Emc3 Blog &rarr;](https://emc3.top)
 
