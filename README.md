@@ -1,8 +1,8 @@
 # doge Blog
 
-### [View Live Emc3 Blog &rarr;](https://emc3.top)
+### [View Live Emc3 Blog &rarr;](https://www.dogebug.cn)
 
-![](https://emc3.top/img/blog-desktop.jpg)
+![](https://www.dogebug.cn/img/blog-desktop.jpg)
 
 
 
