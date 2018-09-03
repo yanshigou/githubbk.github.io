@@ -72,7 +72,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "狗哥养了一只猫"
-sidebar-avatar: /img/avatar-cr7.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/yanshigou.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -92,8 +92,8 @@ service-worker: true
 # Friends
 friends: [
     {
-         title: "dzt",
-         href: "http://www.dogebug.cn"
+         title: "yanshigou's github",
+         href: "http://www.github.com/yanshigou"
      }
 ]
 
