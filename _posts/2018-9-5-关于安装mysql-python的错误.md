@@ -18,19 +18,19 @@ tags: python
 >
 > 	error: Microsoft Visual C++ 14.0 is required. Get it with “Microsoft Visual C++ Build Tools”: <http://landinghub.visualstudio.com/visual-cpp-build-tools>
 
-![](img\t\mysql-python.png)
+![](https://github.com/yanshigou/yanshigou.github.io/blob/master/img/t/mysql-python.png)
 
 
 
 在https://www.lfd.uci.edu/~gohlke/pythonlibs/#wordcloud页面中找到mysql-python
 
-![](img\t\whl.png)
+![](https://github.com/yanshigou/yanshigou.github.io/blob/master/img/t/whl.png)
 
 下载到本地进行pip install  xxx
 
 但是，接下来又出现了：
 
-![](img\t\error2.png)
+![](https://github.com/yanshigou/yanshigou.github.io/blob/master/img/t/error2.png)
 
 
 
@@ -40,7 +40,7 @@ tags: python
 
 接下来就安装成功了
 
-![](img\t\ok.png)
+![](https://github.com/yanshigou/yanshigou.github.io/blob/master/img/t/ok.png)
 
 
 
