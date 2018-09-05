@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: 如何解决windows下mysql-python 安装报错的情况
 description:
 date: 2018-09-05 19:13:00
@@ -18,19 +18,19 @@ tags: python
 >
 > 	error: Microsoft Visual C++ 14.0 is required. Get it with “Microsoft Visual C++ Build Tools”: <http://landinghub.visualstudio.com/visual-cpp-build-tools>
 
-![](D:\blog\yanshigou.github.io\img\t\mysql-python.png)
+![](yanshigou.github.io\img\t\mysql-python.png)
 
 
 
 在https://www.lfd.uci.edu/~gohlke/pythonlibs/#wordcloud页面中找到mysql-python
 
-![](D:\blog\yanshigou.github.io\img\t\whl.png)
+![](yanshigou.github.io\img\t\whl.png)
 
 下载到本地进行pip install  xxx
 
 但是，接下来又出现了：
 
-![](D:\blog\yanshigou.github.io\img\t\error2.png)
+![](yanshigou.github.io\img\t\error2.png)
 
 
 
@@ -40,7 +40,7 @@ tags: python
 
 接下来就安装成功了
 
-![](D:\blog\yanshigou.github.io\img\t\ok.png)
+![](yanshigou.github.io\img\t\ok.png)
 
 
 
