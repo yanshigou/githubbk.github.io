@@ -18,19 +18,19 @@ tags: python
 
 error: Microsoft Visual C++ 14.0 is required. Get it with “Microsoft Visual C++ Build Tools”: <http://landinghub.visualstudio.com/visual-cpp-build-tools>
 
-![](https://github.com/yanshigou/yanshigou.github.io/blob/master/img/t/mysql-python.png)
+![](https://raw.githubusercontent.com/yanshigou/yanshigou.github.io/master/img/t/mysql-python.png)
 
 
 
 在https://www.lfd.uci.edu/~gohlke/pythonlibs/#wordcloud页面中找到mysql-python
 
-![](https://github.com/yanshigou/yanshigou.github.io/blob/master/img/t/whl.png)
+![](https://raw.githubusercontent.com/yanshigou/yanshigou.github.io/master/img/t/whl.png)
 
 下载到本地进行pip install  xxx
 
 但是，接下来又出现了：
 
-![](https://github.com/yanshigou/yanshigou.github.io/blob/master/img/t/error2.png)
+![](https://raw.githubusercontent.com/yanshigou/yanshigou.github.io/master/img/t/error2.png)
 
 
 
@@ -40,10 +40,10 @@ error: Microsoft Visual C++ 14.0 is required. Get it with “Microsoft Visual C+
 
 接下来就安装成功了
 
-![](https://github.com/yanshigou/yanshigou.github.io/blob/master/img/t/ok.png)
+![](https://raw.githubusercontent.com/yanshigou/yanshigou.github.io/master/img/t/ok.png)
 
 
 
+2018-09-05 19:10 解决完问题
 
-
-2018-09-05 19:10
+2018-09-05 19:56 解决好markdown格式、图片显示等问题；
