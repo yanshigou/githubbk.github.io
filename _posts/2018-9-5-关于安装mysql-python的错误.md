@@ -16,9 +16,9 @@ tags: python
 >
 > 但在安装mysql-python时报错：
 >
-> 	error: Microsoft Visual C++ 14.0 is required. Get it with “Microsoft Visual C++ Build Tools”: <http://landinghub.visualstudio.com/visual-cpp-build-tools>
+error: Microsoft Visual C++ 14.0 is required. Get it with “Microsoft Visual C++ Build Tools”: <http://landinghub.visualstudio.com/visual-cpp-build-tools>
 
-![](https://github.com/yanshigou/yanshigou.github.io/blob/master/img/t/mysql-python.png)
+![](img/t/mysql-python.png)
 
 
 
