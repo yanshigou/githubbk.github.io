@@ -15,10 +15,10 @@ tags: python
 > 今天在windows使用pycharm连接数据库时失败，需要安装mysql-python
 >
 > 但在安装mysql-python时报错：
->
+
 error: Microsoft Visual C++ 14.0 is required. Get it with “Microsoft Visual C++ Build Tools”: <http://landinghub.visualstudio.com/visual-cpp-build-tools>
 
-![](img/t/mysql-python.png)
+![](https://github.com/yanshigou/yanshigou.github.io/blob/master/img/t/mysql-python.png)
 
 
 
