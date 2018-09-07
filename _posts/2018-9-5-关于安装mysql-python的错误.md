@@ -47,3 +47,10 @@ error: Microsoft Visual C++ 14.0 is required. Get it with “Microsoft Visual C+
 2018-09-05 19:10 解决完问题
 
 2018-09-05 19:56 解决好markdown格式、图片显示等问题；
+
+
+<font color='red' size=8 face="黑体">！！！py3.6使用mysqlclient就完美解决</font>
+<font color='red' size=8 face="黑体">mysqlclient与mysql-python接口是一样的</font>
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#wordcloud  网址下搜索mysqlclient 找到cp36 下载 安装 OK！
+
+
