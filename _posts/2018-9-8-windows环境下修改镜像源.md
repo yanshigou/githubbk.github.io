@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 转：windows环境下永久修改pip镜像源的方法
+title: windows环境下永久修改pip镜像源的方法
 description:
 date: 2018-09-08 23:16:00
 categories:
