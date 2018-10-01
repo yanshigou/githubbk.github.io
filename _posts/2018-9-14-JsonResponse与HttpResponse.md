@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Django下post请求中使用HttpResponse返回json数据的时候无法获取数据
-description:
 date: 2018-09-14 23:31:00
-categories:
 comments: true
+subtitle: 
+author: "dzt"
 tags: Django
 ---
 
