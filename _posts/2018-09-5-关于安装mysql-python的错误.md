@@ -5,7 +5,9 @@ description:
 date: 2018-09-05 19:13:00
 categories:
 comments: true
-tags: python
+tags: 
+  - python
+  - Error
 ---
 
 

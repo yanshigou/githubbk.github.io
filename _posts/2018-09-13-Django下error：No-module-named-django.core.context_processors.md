@@ -5,7 +5,9 @@ description:
 date: 2018-09-13 16:41:00
 categories:
 comments: true
-tags: Django
+tags: 
+  - Django
+  - Error
 ---
 
 ## 在Django项目中更改setting配置中 context_processors报错
